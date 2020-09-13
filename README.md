@@ -26,5 +26,6 @@
 
 ## c语言学习笔记.txt
 - [ ] C Programming A Modern Approach 2nd C语言程序设计 现代方法 第二版 1-45779行
+- [ ] C Primer Plus 6th C Primer Plus 第六版 45780-91178行
 
 
